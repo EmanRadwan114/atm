@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "66b4fe6c5a2309a973c9ba2f"
+  },
+  "createdBy": {
+    "$oid": "66b4f3d73212b66da776ee8c"
+  },
+  "account": {
+    "$oid": "66b4f6e4c83af3aef56a14ed"
+  },
+  "transaction": "deposit",
+  "amount": 300,
+  "initialBalance": 3100,
+  "finalBalance": 3400,
+  "date": {
+    "$date": "2024-08-08T17:20:44.095Z"
+  },
+  "createdAt": {
+    "$date": "2024-08-08T17:20:44.118Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T17:20:44.118Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b4fecc4eb445fe86c18160"
+  },
+  "createdBy": {
+    "$oid": "66b4f3d73212b66da776ee8c"
+  },
+  "account": {
+    "$oid": "66b4f6e4c83af3aef56a14ed"
+  },
+  "transaction": "withdraw",
+  "amount": 500,
+  "initialBalance": 2900,
+  "finalBalance": 2400,
+  "date": {
+    "$date": "2024-08-08T17:22:20.451Z"
+  },
+  "createdAt": {
+    "$date": "2024-08-08T17:22:20.475Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T17:22:20.475Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b4ff070e28f9bffcb611ce"
+  },
+  "createdBy": {
+    "$oid": "66b4f3d73212b66da776ee8c"
+  },
+  "account": {
+    "$oid": "66b4f6e4c83af3aef56a14ed"
+  },
+  "transaction": "get balance",
+  "amount": 0,
+  "initialBalance": 2400,
+  "finalBalance": 2400,
+  "date": {
+    "$date": "2024-08-08T17:23:19.519Z"
+  },
+  "createdAt": {
+    "$date": "2024-08-08T17:23:19.545Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T17:23:19.545Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b5003017a03532e9ad0ea9"
+  },
+  "createdBy": {
+    "$oid": "66b4f3d73212b66da776ee8c"
+  },
+  "account": {
+    "$oid": "66b4f6e4c83af3aef56a14ed"
+  },
+  "transaction": "deposit",
+  "amount": 300,
+  "initialBalance": 2400,
+  "finalBalance": 2700,
+  "date": {
+    "$date": "2024-08-08T17:28:16.941Z"
+  },
+  "createdAt": {
+    "$date": "2024-08-08T17:28:16.981Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T17:28:16.981Z"
+  }
+}]

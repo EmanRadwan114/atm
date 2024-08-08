@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "66b4f6e4c83af3aef56a14ed"
+  },
+  "createdBy": {
+    "$oid": "66b4f3d73212b66da776ee8c"
+  },
+  "balance": 2700,
+  "createdAt": {
+    "$date": "2024-08-08T16:48:36.517Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T17:28:17.070Z"
+  }
+}]
